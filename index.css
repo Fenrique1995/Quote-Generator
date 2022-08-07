@@ -9,7 +9,7 @@ body{
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 10%;
-    width: auto;
+    width: 50%;
 }
 header{
   position: absolute;
@@ -19,8 +19,7 @@ header{
   text-align: center;
 }
 #caja{
-    margin-top: 5%;
-    flex-direction: column;
+    margin-top: 10%;
 }
 #author{
     margin-left: 50%;
