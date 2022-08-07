@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    
+}
+#contenedor{
+    position: relative;
+    border: 2px solid #CCC;
+    padding: 1em;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    width: auto;
+}
+header{
+  position: absolute;
+  border: 2px solid #CCC;
+  margin: 0%;
+  width: 300px;
+  text-align: center;
+}
+#caja{
+    margin-top: 5%;
+    flex-direction: column;
+}
+#author{
+    margin-left: 50%;
+}
